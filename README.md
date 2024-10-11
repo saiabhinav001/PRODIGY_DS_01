@@ -5,7 +5,7 @@
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I performed Exploratory Data Analysis (EDA) on a provided dataset, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.
 
 ## Dataset
-The dataset used for this task is <a href="https://github.com/saiabhinav001/PRODIGY_DS_01/blob/main/worldpopulationdataset.csv">world_population_dataset</a>. This dataset contains records of the population from the year 2001 to 2022.
+The dataset used for this task is <a href="https://github.com/saiabhinav001/PRODIGY_DS_01/blob/main/worldpopulationdataset.csv">`world_population_dataset`</a>. This dataset contains records of the population from the year 2001 to 2022.
 
 ## Tools and Libraries used
 - Jupyter notebook
